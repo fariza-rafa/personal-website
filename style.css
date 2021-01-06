@@ -1,0 +1,165 @@
+body{
+    margin: 0;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+h1{
+    font-size: 60px;
+    color: rgb(57, 57, 112);
+    font-weight: lighter;
+}
+h2{
+    font-size: 40px;
+}
+p{
+    color: dimgray;
+}
+.tomato-highlight{
+    color:rgb(238, 87, 61);
+}
+.half-width{
+    width: 40%;
+    float:left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+
+.half-width2{
+    width: 40%;
+    float: right;
+    margin-left: 5%;
+    padding: 2%;
+}
+
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(40deg, tomato, purple);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+
+
+
+#head{
+    font-weight: 1200px
+}
+#top-intro{
+    padding-bottom: 50px;
+    font-weight: 50px;
+}
+.half-width2{
+    width: 40%;
+    float: right;
+    margin-left: 5%;
+    padding: 2%;
+}
+.half-width2 img{
+    width: 100%;
+}
+#about{
+    text-align: justify;
+    color: dimgray;
+    padding-right: 5%;
+    padding-bottom: 10%;
+}
+.second-part{
+    
+    padding-top: 5%;
+}
+.first-part{
+    padding-top: 5%;
+}
+.project-head{
+    text-align: center;
+    padding-bottom: 3%;
+    font-size: 30px;
+}
+.work{
+
+    float: left;
+    border-radius: 5px;
+    box-sizing: border-box;
+    margin-left: 5%;
+    box-shadow: 10px 10px 40px grey;
+    border-radius: 5%;
+    width: 25%;
+    height: 60%;
+    padding: 1%;
+    
+}
+.work img{
+    width: 100%;
+}
+.work p{
+    text-align: center;
+}
+.work h4{
+    text-align: center;
+}
+.project-work{
+    align-items: center;
+    padding-top: 2%;
+    background-color: rgb(178, 227, 233);
+}
+#first-part{
+    margin-left: 5%;
+}
+.head2{
+    font-size: 30px;
+}
+.WI{
+    float: left;}
+#work{
+    font-size: 40px;
+    color: rgb(222, 235, 51);
+    font-weight: 4500px;}
+
+#wi-1{
+   margin-left: 0;   
+}
+#wi-2{
+    padding-top: 5%;
+    margin-left: 20%;   
+}
+
+.inquiry-work{
+    margin-top: 5%;
+    padding-left: 3%;
+    padding-top: 2%;
+    margin-bottom: 5%;
+    height: 60px;
+    background-image: url(shapes/Group_33094_1.png);
+    background-repeat: no-repeat;
+    background-size: 70%;
+    margin-left: 25%;
+    
+}
+.only-head{
+    text-align: center;
+}
+.social-icon{
+    height: 50%;
+    display: flex;
+    justify-content: center;
+}
+
+.social-media{
+    padding-top: 2%;
+    margin-top: 2%;
+}
+.only-link img{
+    height: 50px;
+    width: 50px;
+    margin: 5px;
+    size: 50%;
+
+}
+
